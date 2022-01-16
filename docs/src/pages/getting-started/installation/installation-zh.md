@@ -24,10 +24,10 @@ yarn add @mui/material @emotion/react @emotion/styled
 
 ```sh
 // 使用 npm 安装
-npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/material styled-components
 
 // 使用 yarn 安装
-yarn add @mui/material @mui/styled-engine-sc styled-components
+yarn add @mui/material styled-components
 ```
 
 > 💡参考 [Styled Engine 指南](/guides/styled-engine/) 来了解更多配置 `styled-components` 作为样式引擎的更多信息。

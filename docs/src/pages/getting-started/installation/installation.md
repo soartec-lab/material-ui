@@ -24,10 +24,10 @@ Or if you want to use `styled-components` as a styling engine:
 
 ```sh
 // with npm
-npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/material styled-components
 
 // with yarn
-yarn add @mui/material @mui/styled-engine-sc styled-components
+yarn add @mui/material styled-components
 ```
 
 > 💡 Take a look at the [Styled Engine guide](/guides/styled-engine/) for more information about how to configure `styled-components` as the style engine.
